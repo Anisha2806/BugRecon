@@ -176,6 +176,3 @@ Special thanks to all the contributors who have helped improve BugRecon!
 Feel free to update the README and contribute to BugRecon!
 
 ---
-
-By including badges, adding a visually appealing structure, and using GitHub avatars for contributors, this README can become more interactive and engaging.
-
