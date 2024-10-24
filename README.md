@@ -62,7 +62,7 @@ pip install -r requirements.txt
 1. **Clone the Repository**  
    Clone the BugRecon repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/BugRecon.git
+   git clone https://github.com/freyxfi/BugRecon
    cd BugRecon
    ```
 
@@ -167,8 +167,8 @@ This project is licensed under the MIT License.
 Special thanks to all the contributors who have helped improve BugRecon!
 
 <!-- Add contributor avatars automatically with this placeholder -->
-<a href="https://github.com/yourusername/BugRecon/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/BugRecon" />
+<a href="https://github.com/freyxfi/BugRecon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=freyxfi/BugRecon" />
 </a>
 
 ---
