@@ -172,7 +172,3 @@ Special thanks to all the contributors who have helped improve BugRecon!
 </a>
 
 ---
-
-Feel free to update the README and contribute to BugRecon!
-
----
